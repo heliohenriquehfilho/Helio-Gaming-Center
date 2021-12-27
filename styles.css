@@ -6,8 +6,9 @@
 #Nav{
     display: flex;
     flex-direction: row;
-    background-color: black;
-    color: white;
+    background-color: rgba(255, 255, 255, .15);  
+    backdrop-filter: blur(5px);
+    background-image: black;
 }
 
 .title{
@@ -18,4 +19,9 @@
 a {
     padding: 15px;
     font-size: 15px;
+}
+body{
+    width: 100%;
+    height: 100%;
+    background-image: url('C:\Users\hhhfh\Downloads\ps4-system-software-wallpapers-section-background-desktop-02-ps4-eu-05mar18.jfif');
 }
