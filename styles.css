@@ -11,5 +11,11 @@
 }
 
 .title{
-    padding-right: 100px;
+    padding-right: 200px;
+    font-size: 15px;
+}
+
+a {
+    padding: 15px;
+    font-size: 15px;
 }
