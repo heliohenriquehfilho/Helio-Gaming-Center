@@ -1,0 +1,11 @@
+#GTAV:hover {
+    cursor: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2i8d3d3G6N4i8A0_amusing-middle-finger-clip-art-medium-size-gta-v-cursor-png%2F&psig=AOvVaw2brAQVp9-ds4bVDv2Qw3jn&ust=1640721439311000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjk8-bhhPUCFQAAAAAdAAAAABA1');
+    font-size: 21px;
+}
+
+#Nav{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    color: white;
+}
